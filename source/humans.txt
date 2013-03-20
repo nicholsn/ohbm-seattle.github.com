@@ -3,9 +3,9 @@
 
 
 /* TEAM */
-  Owner: Adrian Artiles
-  Site: http://AdrianArtiles.com
-  Twitter: @AdrianArtiles
+  Owner: Nolan Nichols
+  Site: http://ohbm-seattle.github.com
+  Twitter: 
 
   UX Designer: Adrian Artiles
   Site: http://AdrianArtiles.com
