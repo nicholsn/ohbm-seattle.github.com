@@ -29,7 +29,7 @@ article.archive-article-format { box-shadow: none; padding: 0; }
 .dl-horizontal dt { width: 135px; }
 
 #hero {
-  background-image:none;
+  background-image: none;
   background-color:#cccccc;
   background: url(/images/OHBM_Cloud_Hack_logo.png) no-repeat center center fixed; 
   -webkit-background-size: cover;
@@ -42,4 +42,15 @@ article.archive-article-format { box-shadow: none; padding: 0; }
 
 #hero-inner {
   margin-left:0%;
+}
+
+.wrapper_single {
+  background-image: none;
+  background: url(/images/OHBM_Cloud_Hack_logo.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-position: 0 0;
+  height: 100%;
 }
