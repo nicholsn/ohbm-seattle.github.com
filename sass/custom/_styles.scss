@@ -27,3 +27,19 @@ article.archive-article-format { box-shadow: none; padding: 0; }
 
 // Add a little horizontal space in dt elements
 .dl-horizontal dt { width: 135px; }
+
+#hero {
+  background-image:none;
+  background-color:#cccccc;
+  background: url(/images/OHBM_Cloud_Hack_logo.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-position: 0 0;
+  height: 100%;
+}
+
+#hero-inner {
+  margin-left:0%;
+}
