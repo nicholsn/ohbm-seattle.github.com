@@ -29,19 +29,28 @@ article.archive-article-format { box-shadow: none; padding: 0; }
 .dl-horizontal dt { width: 135px; }
 
 #hero {
+// overrides
   background-image: none;
-  background-color:#cccccc;
-  background: url(/images/OHBM_Cloud_Hack_logo.png) no-repeat center center fixed; 
+  background-position: 0 0;
+  padding: 0%;
+  height: 100%;
+
+// additions
+  background: url(/images/OHBM_Cloud_Hack_logo.png) no-repeat top center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;
-  background-position: 0 0;
-  height: 100%;
+  background-size: cover;  
 }
 
 #hero-inner {
-  margin-left:0%;
+  margin-top: 15%;
+  margin-left: 0%;
+}
+
+#hero-inner h1 {
+// overrides
+  font-size: 70px;
 }
 
 .wrapper_single {
