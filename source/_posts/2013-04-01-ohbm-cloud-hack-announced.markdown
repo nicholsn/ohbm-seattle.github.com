@@ -13,14 +13,14 @@ The 2013 Local Organizing Committee announces __OHBM Cloud Hack__, a meeting-lon
 
 #### Background
 
-OHBM 2013 occurs in city at the forefront of open neuroscience and information technology.  With support from the [Allen Institute for Brain Science][aibs], [Amazon Web Services][aws], and numerous other contributors, the 2013 meeting will include an integrated hack room and associated cloud computing contest called the __OHBM Cloud Hack__. Cloud Hack will include a meeting-long venue on the main poster/exhibit floor space, and prepared cloud-accessible data and software. These resources will be available to participants beginning two months ahead of the meeting, with in-kind support from Amazon Web Services in the form of cloud computing credits.
+OHBM 2013 occurs in a city at the forefront of open neuroscience and information technology.  With support from the [Allen Institute for Brain Science][aibs], [Amazon Web Services][aws], and numerous other contributors, the 2013 meeting will include an integrated hack room and associated cloud computing contest called the __OHBM Cloud Hack__. Cloud Hack will include a venue on the main poster/exhibit floor space, and prepared cloud-accessible data and software. These resources will be available to participants beginning two months ahead of the meeting, with in-kind support from Amazon Web Services in the form of __$100 in cloud computing credits__ that will be made available to all registered Cloud Hack participants attending OHBM 2013.
 
 [aibs]: http://www.alleninstitute.org "Allen Institute for Brain Science"
 [aws]: http://aws.amazon.com "Amazon Web Services"
 
 #### Sponsors
 
-Cloud Hack major sponsors will include the Allen Institute for Brain Science and Amazon Web Services. 
+Cloud Hack _major sponsors_ include the Allen Institute for Brain Science and Amazon Web Services. 
 
 There are a number of secondary sponsors including:
 
@@ -32,7 +32,7 @@ There are a number of secondary sponsors including:
 - [GitHub][github]
 
 
-Ongoing discussions to make other resources Cloud-accessible:
+Ongoing discussions are underway to make other resources Cloud-accessible:
 
 - INDI - [International Neuroimaging Data-Sharing Initiative][indi]
 - LONI - [Laboratory of NeuroImaging][loni]
@@ -42,7 +42,7 @@ Ongoing discussions to make other resources Cloud-accessible:
 
 _Major sponsors_ made donations specifically to support the Cloud Hack program.
 
-_Secondary sponsors_ are qualified by making tools and resources AWS-accessible in advance of the meeting, having an on-site presence (flagged consultation table in the Hack Room) during scheduled informal hack time during lunch and poster sessions and/or contributing in-kind resources in support of the Cloud Hack.
+_Secondary sponsors_ are qualified by making tools and resources AWS-accessible in advance of the meeting, having an on-site presence (flagged consultation table in the Hack Room) during scheduled informal hack time during lunch and poster sessions and/or contributing relevant resources in support of the Cloud Hack.
 
 __Have a resource and want to be a sponsor? Contact Us__
 
@@ -57,25 +57,25 @@ __Have a resource and want to be a sponsor? Contact Us__
 [indi]: http://fcon_1000.projects.nitrc.org "INDI"
 [loni]: http://www.loni.ucla.edu "LONI"
 [nipy]: http://nipy.sourceforge.net "NIPY"
-[debian]: http://neuro.debian.org "NeuroDebian"
+[debian]: http://neuro.debian.net "NeuroDebian"
 
 
 #### Venue
 
-OHBM has allocated approximately 3000 square feet of space on the poster/exhibit hall for a _Cloud Hack Room_ that will include a podium and presentation eqipment. The room will be used for collaboration as well as formal presentations accomodating up to 300 people. Sponsoring and contributing groups will be present to provide ongoing consultation and assistance with their respective resources, and may optionally make brief presentations at the podium. 
+OHBM has allocated approximately 3000 square feet of space on the poster/exhibit hall for a _Cloud Hack Room_ that will include a podium and presentation equipment. The room will be used for collaboration as well as formal presentations accommodating up to 300 people. Sponsoring and contributing groups will be present to provide ongoing consultation and assistance with their respective resources, and may optionally make brief presentations at the podium. 
 
 #### Schedule
 
-The Cloud Hack program will take place during the lunch hour and poster sessions, and includes the Tues evening poster reception. 
+The Cloud Hack program will take place during the lunch hour and poster sessions, and includes the Tuesday evening poster reception. 
 
 __Monday__ – sponsored by Allen Institute for Brain Science
 
->__12:30-1:30:__  Cloud Hack orientation presentations.
+>__12:30-1:30pm:__ Cloud Hack orientation presentations.
 >  
 >  - Shared Allen Institute and AWS presentations
 >  - Light box lunch
 >
->__1:30-3:30:__  Informal hack activity
+>__1:30-3:30pm:__ Informal hack activity
 >
 >- Grassroots responses to contest challenges
 >- Consultation/assistance from sponsoring groups
@@ -84,27 +84,27 @@ __Monday__ – sponsored by Allen Institute for Brain Science
 
 __Tuesday__ – sponsored by Amazon Web Services
 
->__12:30-3:30:__  Informal activity as described under Monday above
+>__12:30-3:30pm:__  Informal hack activity as described under Monday (see above)
 >
->__18:00-19:30:__ Shared Allen Institute and AWS presentations
+>__6:00-7:30pm:__ Shared Allen Institute and AWS presentations
 	
-__Wednesday__ – 
+__Wednesday__ – sponsor TBD
 
->__12:30-3:30:__	informal activity as described under Monday above
+>__12:30-3:30pm:__ Informal hack activity as described under Monday (see above)
 >
->__1:30-3:00:__	preliminary pitches to judges (see Judging below)
+>__1:30-3:00pm:__ Preliminary pitches to judges (see Judging below)
 
-__Thursday__ – 
+__Thursday__ – sponsor TBD
 
->__10:45-12:15:__	Informal activity as described under Monday above
+>__10:45-12:15pm:__ Informal activity as described under Monday (see above)
 >
->__12:15-1:15:__	Final presentations and community voting
+>__12:15-1:15pm:__ Final presentations and community voting
 >
->__1:15-1:45:__	Cloud Hack reception 
+>__1:15-1:45pm:__ Cloud Hack reception 
 
 #### Contest and Challenges
 
-The contest will be organized around three Challenges, two of them pre-announced and open to work in advance of the meeting; and one announced at the time of the meeting. A brief overview of the challenges are provided here and a more detailed post will be provided separately as a post here at [OHBM Cloud Hack Blog](http://ohbm-seattle.github.com).
+The contest will be organized around three Challenges, two of them pre-announced and open to work in advance of the meeting; and one announced at the time of the meeting. A brief overview of the challenges are provided here and a more detailed post will be provided separately as a post here at the [OHBM Cloud Hack Blog](http://ohbm-seattle.github.com).
 
 __Challenge 1.__ Best imaging and gene expression relationship discovered via integration of imaging data with the Allen Human Brain Atlas.
 
@@ -135,35 +135,33 @@ Cooperative “hackathon” activity outside of the contest is also encouraged. 
 
 #### Judging
 
-Participants will be judged using a combination of panel judging and peer voting as follows. 
-
-A committee of three judges not involved in the organization of Cloud Hack will be recruited.
+Participants will be judged using a combination of panel judging and peer voting. A committee of three judges not involved in the organization of Cloud Hack will be recruited.
 
 __The responsibilities of the judges are to:__
 
-- Circulate in the Hack Room during informal activity time, and consider self-nominated projects for inclusion in the preliminary judging session scheduled for Wednesday PM.
-- Attend the preliminary pitches of hack projects Weds 1:30-3:00 at the north wall presentation space, and decide on 2-3 finalists in each category.
+- Circulate in the Hack Room during informal activity time, and consider self-nominated projects for inclusion in the preliminary judging session scheduled for Wednesday evening.
+- Attend the preliminary pitches of hack projects Wednesday 1:30-3:00pm at the north wall presentation space, and decide on 2-3 finalists in each category.
 
 __Criteria to be applied include:__
 
 - Scientific impact
-- Innovative use of cloud service
+- Innovative use of cloud services
 - Open availability of brain mapping tools, atlases, or datasets
 - Extent and diversity of data used
 
-__Preliminary judging session:__ Weds 1:30-3:00pm
+__Preliminary judging session:__ Wednesday 1:30-3:00pm
 
-- Judge-nominated projects pitch for 4 min (5 slides) and one min questions
+- Judge-nominated projects pitch for 4 minute (5 slides) and one minute questions
 - A maximum of 15 projects will be presented in this session
 - Judges select 2 per Challenge for final session on Thursday
 - Finalists may “pour it on” overnight
 
-__Final Presentations:__ Thurs 12:15-1:15pm
+__Final Presentations:__ Thursday 12:15-1:15pm
 
 - Final projects present for 10 min total (including any questions)
 - Winners selected by community voting (i.e., of those attending)
 
-__Reception__ – Thurs 1:15 -1:45
+__Reception__ – Thursday 1:15-1:45pm
 
 - Will follow final presentations, refreshments, votes tabulated and winners announced.
 
@@ -187,5 +185,5 @@ __The Cloud Hack Organizers__
 - Elaine Shen, Allen Institute for Brain Science
 - Rachel Pizarro, Amazon Web Services
 - Jamie Kinney, Principal Solution Architect, Amazon Web Services
-- Satrajit Ghosh, MIT, INCF affiliate
+- Satrajit Ghosh, MIT
 - OHBM 2013 Local Organizing Committee
