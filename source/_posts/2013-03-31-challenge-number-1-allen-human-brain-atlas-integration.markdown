@@ -4,7 +4,7 @@ title: "Challenge #1: Allen Human Brain Atlas Integration"
 date: 2013-03-31 13:40
 comments: true
 categories: [Challenge, Allen Institute]
-published: false
+published: true
 ---
 
 For this challenge, you will try to identify the best relationship between 
