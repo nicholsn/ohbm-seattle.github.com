@@ -7,6 +7,7 @@ categories: [Challenge, Allen Institute]
 published: true
 ---
 
+{% img http://www.alleninstitute.org/Assets/images/common/logo_institute.png "Allen Institute for Brain Science" %}
 For this challenge, you will try to identify the best relationship between 
 imaging data and gene expression data in the Allen Human Brain Atlas.
 
