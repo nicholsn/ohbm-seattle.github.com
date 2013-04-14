@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://OHBM-Seattle.github.com
-title: OHBM Cloud Hack
-subtitle: An Open Brain Mapping Event
-author: OHBM Organizing Commitee
+url: http://ohbm-seattle.github.io
+title: HBM Hackathon
+subtitle: Open Brain Mapping in the Cloud
+author: OHBM Organizing Committee
 simple_search: http://google.com/search
-description: OHBM Cloud Hack is an Open Brain Mapping Event that includes a set of challenges and onsite brain image analysis.
+description: The HBM Hackathon is a meeting-long analysis and resource building competition designed to accelerate the connection between open neuroscience and cloud computing.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -19,7 +19,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: hbm-hackathon@gmail.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -59,7 +59,7 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/twitter.ht
 
 # Github repositories
 github_user: ohbm-seattle
-github_repo_count: 0
+github_repo_count: 5
 github_show_profile_link: true
 github_skip_forks: true
 
@@ -93,7 +93,7 @@ disqus_short_name:
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-40132400-1
 
 # Facebook Like
 facebook_like: false
