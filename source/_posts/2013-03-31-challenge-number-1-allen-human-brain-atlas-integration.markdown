@@ -3,7 +3,7 @@ layout: post
 title: "Challenge #1: Allen Human Brain Atlas Integration"
 date: 2013-03-31 13:40
 comments: true
-categories: [Challenge, Allen Institute]
+categories: [Challenges, Allen Institute]
 published: true
 ---
 
