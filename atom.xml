@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[HBM Hackathon]]></title>
+  <link href="http://nicholsn.github.com/atom.xml" rel="self"/>
+  <link href="http://nicholsn.github.com/"/>
+  <updated>2013-04-13T20:02:59-07:00</updated>
+  <id>http://nicholsn.github.com/</id>
+  <author>
+    <name><![CDATA[OHBM Organizing Committee]]></name>
+    <email><![CDATA[hbm.hackathon@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
