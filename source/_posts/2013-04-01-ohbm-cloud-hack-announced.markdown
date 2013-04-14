@@ -1,76 +1,79 @@
 ---
 layout: post
-title: "OHBM Cloud Hack Announced!"
-date: 2013-04-01 13:53
+title: "HBM Hackathon Announced!"
+date: 2013-04-15 13:53
 comments: true
-categories: [Cloud Hack,]
-published: false
+categories: [Challenges,]
+published: true
 ---
 
-The 2013 Local Organizing Committee announces __OHBM Cloud Hack__, a meeting-long analysis and resource building competition designed to accelerate the connection between open neuroscience and cloud computing. 
+The OHBM 2013 Local Organizing Committee (LOC) announces the __HBM Hackathon__, a meeting-long analysis and resource building competition designed to accelerate the connection between open neuroscience and cloud computing. 
 
 <!-- more -->
 
 #### Background
 
-OHBM 2013 occurs in a city at the forefront of open neuroscience and information technology.  With support from the [Allen Institute for Brain Science][aibs], [Amazon Web Services][aws], and numerous other contributors, the 2013 meeting will include an integrated hack room and associated cloud computing contest called the __OHBM Cloud Hack__. Cloud Hack will include a venue on the main poster/exhibit floor space, and prepared cloud-accessible data and software. These resources will be available to participants beginning two months ahead of the meeting, with in-kind support from Amazon Web Services in the form of __$100 in cloud computing credits__ that will be made available to all registered Cloud Hack participants attending OHBM 2013.
+OHBM 2013 occurs in a city at the forefront of open neuroscience and information technology.  With support from the [Allen Institute for Brain Science][aibs], [Amazon Web Services][aws], and numerous other contributors, the 2013 meeting in Seattle will include an integrated hack room and associated cloud-computing contest called the __HBM Hackathon__. The hackathon will include a venue on the main poster/exhibit floor space, and prepared cloud-accessible data and software. These resources will be available to participants beginning two months ahead of the meeting, with in-kind support from Amazon Web Services in the form of __$100 in cloud computing credits__ that will be made available to all registered HBM Hackathon participants attending OHBM 2013.
+
+#### HBM Hackathon Information
+
+- __[Registration](http://humanbrainmapping.org/hackathon)__
+- __[Website and Blog](http://ohbm-seattle.github.io/)__
+- __[Discussion Group](http://www.linkedin.com/groups/HBM-Hackathon-4957800)__
+
+
 
 [aibs]: http://www.alleninstitute.org "Allen Institute for Brain Science"
 [aws]: http://aws.amazon.com "Amazon Web Services"
 
 #### Sponsors
 
-Cloud Hack _major sponsors_ include the Allen Institute for Brain Science and Amazon Web Services. 
+HBM Hackathon _major sponsors_ include the Allen Institute for Brain Science and Amazon Web Services. 
 
 There are a number of secondary sponsors including:
 
 - NITRC - [Neuroimaging Informatics Tools and Resources Clearinghouse][nitrc]
 - IBIC - [University of Washington Integrated Brain Imaging Center][ibic]
 - INCF - [International Neuroinformatics Coordinating Facility][incf]
+- BIRN - [Biomedical Informatics Research Network][birn]
 - NDAR - [National Database for Autism Research][ndar]
-- [Frontiers in Brain Imaging Methods][frontiers]
-- [GitHub][github]
-
-
-Ongoing discussions are underway to make other resources Cloud-accessible:
-
-- INDI - [International Neuroimaging Data-Sharing Initiative][indi]
 - LONI - [Laboratory of NeuroImaging][loni]
 - HCP - [Human Connectome Project][hcp]
+- [Frontiers in Brain Imaging Methods][frontiers]
 - NIPY - [Neuroimaging in Python][nipy]
 - [NeuroDebian][debian]
+- [GitHub][github]
 
-_Major sponsors_ made donations specifically to support the Cloud Hack program.
+_Major sponsors_ made donations specifically to support the HBM Hackathon program.
 
-_Secondary sponsors_ are qualified by making tools and resources AWS-accessible in advance of the meeting, having an on-site presence (flagged consultation table in the Hack Room) during scheduled informal hack time during lunch and poster sessions and/or contributing relevant resources in support of the Cloud Hack.
+_Secondary sponsors_ are qualified by making tools and resources AWS-accessible in advance of the meeting, having an on-site presence (flagged consultation table in the Hack Room) during scheduled informal hack time during lunch and poster sessions and/or contributing relevant resources in support of the HBM Hackathon.
 
-__Have a resource and want to be a sponsor? Contact Us__
+#### Have an open human brain mapping resource you would like to have included? 
+Just contact us: <hbm.hackathon@gmail.com>
 
-[incf]: http://www.incf.org "INCF"
 [nitrc]: http://www.nitrc.org "NITRC"
-[ndar]: http://ndar.nih.gov "NDAR"
-[github]: http://github.com "GitHub"
-[frontiers]: http://www.frontiersin.org/Brain_Imaging_Methods "Frontiers in Brain Imaging Methods"
 [ibic]: http://www.ibic.washington.edu "IBIC"
-
-[hcp]: http://www.humanconnectome.org "Human Connectome Project"
-[indi]: http://fcon_1000.projects.nitrc.org "INDI"
+[incf]: http://www.incf.org "INCF"
+[birn]: http://www.birncommunity.org "BIRN"
+[ndar]: http://ndar.nih.gov "NDAR"
 [loni]: http://www.loni.ucla.edu "LONI"
+[hcp]: http://www.humanconnectome.org "Human Connectome Project"
+[frontiers]: http://www.frontiersin.org/Brain_Imaging_Methods "Frontiers in Brain Imaging Methods"
 [nipy]: http://nipy.sourceforge.net "NIPY"
 [debian]: http://neuro.debian.net "NeuroDebian"
-
+[github]: http://github.com "GitHub"
 
 #### Venue
 
-OHBM has allocated approximately 3000 square feet of space on the poster/exhibit hall for a _Cloud Hack Room_ that will include a podium and presentation equipment. The room will be used for collaboration as well as formal presentations accommodating up to 300 people. Sponsoring and contributing groups will be present to provide ongoing consultation and assistance with their respective resources, and may optionally make brief presentations at the podium. 
+OHBM has allocated approximately 3000 square feet of space on the poster/exhibit hall for a _Hack Room_ that will include a podium and presentation equipment. The _Hack Room_ will be used for collaboration as well as formal presentations accommodating up to 300 people. Sponsoring and contributing groups will be present to provide ongoing consultation and assistance with their respective resources, and may optionally make brief presentations at the podium. 
 
 #### Schedule
 
-The Cloud Hack program will take place during the lunch hour and poster sessions, and includes the Tuesday evening poster reception. 
+The HBM Hackathon program will take place during the lunch hour and poster sessions, and includes the Tuesday evening poster reception. 
 
 __Monday__ – sponsored by Allen Institute for Brain Science
 
->__12:30-1:30pm:__ Cloud Hack orientation presentations.
+>__12:30-1:30pm:__ HBM Hackathon orientation presentations.
 >  
 >  - Shared Allen Institute and AWS presentations
 >  - Light box lunch
@@ -100,11 +103,16 @@ __Thursday__ – sponsor TBD
 >
 >__12:15-1:15pm:__ Final presentations and community voting
 >
->__1:15-1:45pm:__ Cloud Hack reception 
+>__1:15-1:45pm:__ HBM Hackathon reception 
 
 #### Contest and Challenges
 
-The contest will be organized around three Challenges, two of them pre-announced and open to work in advance of the meeting; and one announced at the time of the meeting. A brief overview of the challenges are provided here and a more detailed post will be provided separately as a post here at the [OHBM Cloud Hack Blog](http://ohbm-seattle.github.com).
+The contest will be organized around three Challenges, two of them pre-announced and open to work in advance of the meeting; and one announced at the time of the meeting. A brief overview of the challenges are provided here and a more detailed post will be provided separately as a post here at the [HBM Hackathon Blog](http://ohbm-seattle.github.io).
+
+HBM Hackathon participants are encouraged to work in teams and will receive several incentives:
+
+- $100 in cloud-computing credits per participant registered for OHBM
+- Private GitHub Repository for groups of five or more (50 total)
 
 __Challenge 1.__ Best imaging and gene expression relationship discovered via integration of imaging data with the Allen Human Brain Atlas.
 
@@ -112,7 +120,7 @@ __Challenge 1.__ Best imaging and gene expression relationship discovered via in
 > 
 >Mueller K, Sacher J, Arelin K, Holiga S, Kratzsch J, et al. Overweight and obesity are associated with neuronal injury in the human cerebellum and hippocampus in young adults: a combined MRI, serum marker and gene expression study. Transl Psychiatry 2: e200. doi:10.1038/tp.2012.121.
 
-__Challenge 2.__ Best neural systems model or visualization based on large-scale integration of resting state fMRI data with other Cloud Hack accessible datasets. 
+__Challenge 2.__ Best neural systems model or visualization based on large-scale integration of resting state fMRI data with other HBM Hackathon accessible datasets. 
 
 >Here is a published example that would be responsive to this challenge:
 
@@ -122,8 +130,11 @@ __Challenge 3.__ To be announced the week of the meeting. This "mystery" challen
 
 __Rules__
 
+- Participants must use publicly available data that is listed on the HBM Hackathon Blog. If a public dataset is not listed that you want to use, we would love to add it to the list, just contact us: <hbm.hackathon@gmail.com>
+- Participants can use any computational resources available to them, but judging will take into account innovative use of cloud computing and how openly available the approach is (see Judging)
 - At least one team leader/presenter must attend the meeting
-- Off-site team members are allowed and encouraged, but will not be eligible for all resources made available to registered OHBM attendees (e.g., Amazon Web Service credits). 
+- Off-site team members are allowed and encouraged, but will not be eligible for all resources made available to registered OHBM attendees (e.g., cloud computing credits)
+
 
 __Not interested in the challenges?__
 
@@ -135,7 +146,7 @@ Cooperative “hackathon” activity outside of the contest is also encouraged. 
 
 #### Judging
 
-Participants will be judged using a combination of panel judging and peer voting. A committee of three judges not involved in the organization of Cloud Hack will be recruited.
+Participants will be judged using a combination of panel judging and peer voting. A committee of three judges not involved in the organization of the HBM Hackathon will be recruited.
 
 __The responsibilities of the judges are to:__
 
@@ -151,7 +162,7 @@ __Criteria to be applied include:__
 
 __Preliminary judging session:__ Wednesday 1:30-3:00pm
 
-- Judge-nominated projects pitch for 4 minute (5 slides) and one minute questions
+- Judge-nominated projects pitch for 4 minute (5 slides) with one minute for questions
 - A maximum of 15 projects will be presented in this session
 - Judges select 2 per Challenge for final session on Thursday
 - Finalists may “pour it on” overnight
@@ -163,27 +174,27 @@ __Final Presentations:__ Thursday 12:15-1:15pm
 
 __Reception__ – Thursday 1:15-1:45pm
 
-- Will follow final presentations, refreshments, votes tabulated and winners announced.
-
+- Votes will be tabulated and winners will be announced
+- Refreshments will be provided
 
 #### Prizes
 
 Winning entries in each category receive:
 
 - An invitation to submit project to Frontiers in Brain Imaging Methods with Open Access Publication Fees waived (must undergo standard peer review)
-- Kindle Fire
-- AWS hosts resources and/or dataset results free of charge
-- Free GitHub private repository for 1 year
+- Amazon Kindle Fire and/or Paperwhite (limit 3 per team)
+- AWS hosts AMI and/or data resulting from the hackathon free of charge
+- Free GitHub Membership with private repositories (Challenge 1: one year silver, Challenge 2: 1 year bronze, Challenge 3: six months bronze)
 
 #### Thank you and good luck!
 
-__The Cloud Hack Organizers__
+__The HBM Hackathon Organizers__
 
 - Thomas Grabowski, University of Washington, LOC Chair
 - Nolan Nichols, University of Washington
-- Chinh Dang, CIO, Allen Institute for Brain Science
+- Chinh Dang, Allen Institute for Brain Science
 - Elaine Shen, Allen Institute for Brain Science
 - Rachel Pizarro, Amazon Web Services
-- Jamie Kinney, Principal Solution Architect, Amazon Web Services
-- Satrajit Ghosh, MIT
+- Jamie Kinney, Amazon Web Services
+- Satrajit Ghosh, Massachusetts Institute of Technology
 - OHBM 2013 Local Organizing Committee
