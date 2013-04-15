@@ -7,6 +7,7 @@ categories: [Challenges, Overview, HBM Hackathon]
 published: true
 ---
 
+{% img /images/HBM_Hackthon_logo_small.png 200 232 "HBM Hackathon" %}
 The OHBM 2013 Local Organizing Committee (LOC) announces the __HBM Hackathon__, a meeting-long analysis and resource building competition designed to accelerate the connection between open neuroscience and cloud computing. 
 
 <!-- more -->
