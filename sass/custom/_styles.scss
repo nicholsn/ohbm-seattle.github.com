@@ -30,7 +30,7 @@ article.archive-article-format { box-shadow: none; padding: 0; }
 
 // adjusting where the hero-inner starts on the page
 #front-wrapper {
-  margin-top: 33%;
+  margin-top: 30%;
 }
 
 #hero {
@@ -85,4 +85,8 @@ article.archive-article-format { box-shadow: none; padding: 0; }
 
 #sub-hero p {
   text-align: justify;
+}
+
+fieldset {
+  float: right;
 }
