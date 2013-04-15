@@ -26,14 +26,16 @@ expression profile contains information for over 58,000 gene probes with
 93% of known genes represented by at least 2 probes. Sample locations were 
 mapped back into the native brain MRI coordinates and subsequently to Montreal Neurological Institute (MNI) coordinate space.
 
-These data are freely accessible via the Allen Brain Atlas data portal 
-([http://human.brain-map.org][brainmap]). Use the online tools to visualize the expression data as heatmaps or projected into 3D anatomical context. An integrated data service allows users to perform differential and correlative searches to discover genes of interest.
+These data are freely accessible via the Allen Brain Atlas data portal ([http://human.brain-map.org][brainmap]).  They have also been mirrored using Amazon's AWS S3 cloud storage [here][aws].
+
+Use the online tools to visualize the expression data as heatmaps or projected into 3D anatomical context. An integrated data service allows users to perform differential and correlative searches to discover genes of interest.
 
 For more detail, start with a [guided overview][overview] or see the recent [publication][pub] in Nature.
 
 [brainmap]: http://human.brain-map.org
 [overview]: http://www.brain-map.org/tutorials/index
 [pub]: http://www.nature.com/nature/journal/v489/n7416/full/nature11405.html
+[aws]: https://s3.amazonaws.com/Human-Brain-Atlas/index.html
 
 #### Details
 
@@ -52,6 +54,12 @@ We're looking for the best relationship between gene expression in the Atlas and
 This [sample Matlab code][matex] that might be a good place to start. It takes one of the example data sets from the Statistical Parametric Mapping (SPM) package, samples the image at all of the microarray sample MNI coordinates, and correlates the sampled values to gene expression values.
 
 You can also look at this [sample Python code][pyex]. It uses numpy to correlate the gene expression values of all of the samples to each other for one donor. There is also some code for picking one probe per gene. It chooses the probe that is most correlated to the other probes for that gene.
+
+For inspiration, consider reading this study that integrates imaging and gene expression data:
+
+Mueller K, Sacher J, Arelin K, Holiga S, Kratzsch J, et al. [Overweight and obesity are associated with neuronal injury in the human cerebellum and hippocampus in young adults: a combined MRI, serum marker and gene expression study.][study] Transl Psychiatry 2: e200. doi:10.1038/tp.2012.121.
+
+[study]: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3565188/
 
 Good luck!
 
