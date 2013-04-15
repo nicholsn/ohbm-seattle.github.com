@@ -28,6 +28,10 @@ article.archive-article-format { box-shadow: none; padding: 0; }
 // Add a little horizontal space in dt elements
 .dl-horizontal dt { width: 135px; }
 
+// adjusting where the hero-inner starts on the page
+#front-wrapper {
+  margin-top: 30%;
+}
 #hero {
 // overrides
   background-image: none;
@@ -62,6 +66,11 @@ article.archive-article-format { box-shadow: none; padding: 0; }
   background-size: cover;
   background-position: 0 0;
   height: 100%;
+}
+
+#sub-hero {
+// padding aligns the nav bar at the top of slider
+  padding: 0px;
 }
 
 #sub-hero p {
