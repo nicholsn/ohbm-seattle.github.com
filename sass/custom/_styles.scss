@@ -30,8 +30,9 @@ article.archive-article-format { box-shadow: none; padding: 0; }
 
 // adjusting where the hero-inner starts on the page
 #front-wrapper {
-  margin-top: 30%;
+  margin-top: 33%;
 }
+
 #hero {
 // overrides
   background-image: none;
@@ -40,7 +41,7 @@ article.archive-article-format { box-shadow: none; padding: 0; }
   height: 100%;
 
 // additions
-  background: url(/images/OHBM_Cloud_Hack_logo.png) no-repeat top center fixed; 
+  background: url(/images/HBM_Cloud_logo.png) no-repeat top center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -54,12 +55,21 @@ article.archive-article-format { box-shadow: none; padding: 0; }
 
 #hero-inner h1 {
 // overrides
-  font-size: 70px;
+  font-size: 80px;
+  font-weight: bold;
+  color: rgb(255, 255, 255);
+}
+
+#hero-inner h2 {
+// overrides
+  font-size: 40px;
+  font-weight: bold;
+  color: rgb(255, 255, 255);
 }
 
 .wrapper_single {
   background-image: none;
-  background: url(/images/OHBM_Cloud_Hack_logo.png) no-repeat center center fixed; 
+  background: url(/images/clouds.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
