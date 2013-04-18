@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "LONI Pipeline in the Cloud"
-date: 2013-04-13 23:05
+date: 2013-04-18 14:30
 comments: true
 categories: [Virtual Machines, Workflow Tools, Datasets]
 ---
