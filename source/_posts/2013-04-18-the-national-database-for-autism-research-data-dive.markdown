@@ -7,7 +7,7 @@ categories: [Challenges, NDAR, Datasets]
 ---
 
 {% img http://ndar.nih.gov/images/ndar/ndar.png "NDAR" %}
-This HBM Hackathon accessible dataset is an excellent resource for finding significant relationships amongst neuroimaging, clinical, and –omics data within the National Database for Autism Research ([NDAR][ndar]).
+This HBM Hackathon accessible repository is an excellent resource for finding significant relationships amongst neuroimaging, clinical, and –omics data within the National Database for Autism Research ([NDAR][ndar]).
 
 <!-- more -->
 
