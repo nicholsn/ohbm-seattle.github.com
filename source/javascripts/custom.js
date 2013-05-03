@@ -76,6 +76,7 @@ $(function(){
   var $container = $('#post-container');
   $container.imagesLoaded(function(){
     $container.masonry({
+      singleMode : true,
       itemSelector : '.span4'
     });
   });
