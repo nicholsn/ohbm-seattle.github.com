@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Human Connectome Project Q1 Release: Now Cloud Accessible"
-date: 2013-05-02 19:13
+date: 2013-05-03 13:00
 comments: true
 categories: Datasets
 ---
