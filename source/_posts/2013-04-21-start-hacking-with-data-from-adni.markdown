@@ -6,9 +6,10 @@ comments: true
 categories: [Datasets, ADNI, LONI] 
 ---
 
-{% img https://ida.loni.ucla.edu/services/Images/Header/ADNI_Logo.png "ADNI" %}
+{% img https://ida.loni.ucla.edu/services/Images/Header/ADNI_Logo.png height=150 "ADNI" %}
 
-Start responding to the hackathon challenges using data from ADNI - the [Alzheimer's Disease Neuroimaging Initiative](http://www.adni-info.org).
+Start responding to the hackathon challenges using data from ADNI - the [Alzheimer's Disease Neuroimaging Initiative](http://www.adni-info.org).  
+<br />  
 
 <!-- more -->
 
