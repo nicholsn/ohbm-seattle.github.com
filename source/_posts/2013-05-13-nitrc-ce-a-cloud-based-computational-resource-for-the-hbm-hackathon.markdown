@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NITRC-CE: A cloud-based computational resource for the HBM Hackathon"
+title: "NITRC-CE: A computational resource for the HBM Hackathon"
 date: 2013-05-13 12:00
 comments: true
 categories: [Virtual Machines, Datasets, NITRC]
@@ -8,9 +8,11 @@ categories: [Virtual Machines, Datasets, NITRC]
 
 {% img /images/NITRC-CE.png "NITRC-CE" %}
 
-In January of 2013, the Neuroimaging Informatics Tools and Resources Clearinghouse ([NITRC][nitrc]) released it's Computational Environment (NITRC-CE), an on-demand, cloud based computational virtual machine pre-installed with popular NITRC neuroimaging tools built using NeuroDebian.
+NITRC-CE is an on-demand, cloud based computational virtual machine pre-installed with popular NITRC neuroimaging tools.
 
 <!-- more -->
+
+In January of 2013, the Neuroimaging Informatics Tools and Resources Clearinghouse ([NITRC][nitrc]) released it's Computational Environment (NITRC-CE), an on-demand, cloud based computational virtual machine pre-installed with popular NITRC neuroimaging tools built using NeuroDebian.
 
 ### Purpose
 The NITRC-CE is designed to be a low-barrier entry point to accessing the power of the cloud-based computing environment by providing a fully configured, ready to go EC2 instance within just a few clicks of the mouse. 
