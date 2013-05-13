@@ -6,9 +6,9 @@ comments: true
 categories: [Datasets, Challenges]
 ---
 
-{% img https://openfmri.org/sites/all/themes/openfmri/logo.png "OpenfMRI" %}
+{% img https://openfmri.org/sites/all/themes/openfmri/logo.png height=150 "OpenfMRI" %}
 
-The [OpenfMRI](http://openfmri.org) project provides raw and processed task fMRI datasets for use in re-analysis and mega-analysis.
+The [OpenfMRI](http://openfmri.org) project provides raw and processed task fMRI datasets for use in re-analysis and mega-analysis that are now Cloud accessible.
 
 <!-- more -->
 

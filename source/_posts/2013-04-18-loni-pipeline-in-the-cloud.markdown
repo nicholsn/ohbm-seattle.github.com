@@ -3,11 +3,12 @@ layout: post
 title: "LONI Pipeline in the Cloud"
 date: 2013-04-18 14:30
 comments: true
-categories: [Virtual Machines, Workflow Tools, Datasets]
+categories: [Virtual Machines, Workflow Tools]
 ---
 
-{% img http://pipeline.loni.ucla.edu/wp-content/themes/pipeline2012/images/explore_Coin.jpg "LONI Pipeline" %}
-The [LONI Pipeline][loni] is available on the Cloud as an [Amazon EC2 Instance][ec2] (i.e., virtual machine).
+{% img http://pipeline.loni.ucla.edu/wp-content/themes/pipeline2012/images/explore_Coin.jpg height=150 "LONI Pipeline" %}
+
+The [LONI Pipeline][loni] is available on the Cloud as an [Amazon EC2 Instance][ec2] (i.e., virtual machine) with access to several datasets.
 
 <!-- more -->
 
