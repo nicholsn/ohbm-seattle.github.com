@@ -3,20 +3,20 @@ layout: post
 title: "NeuroDebian: The ultimate neuroscience software platform"
 date: 2013-06-11 18:00
 comments: true
-categories: [Virtual Machines, Operating Systems, Datasets, Atlases, Software, NeuroDebian]
+categories: [Virtual Machines, Datasets, Atlases, Software, NeuroDebian]
 ---
 
 {% img /images/NeuroDebian.png "NeuroDebian" %}
 
 [NeuroDebian][] is a turnkey software platform for nearly all aspects of the neuroscientific research process.
-It provides a large collection of popular neuroscience research software for the [Debian][] operating system as well as [Ubuntu][] and other derivatives.  Moreover it provides some popular datasets and atlases within the same convenient package management system.
-
 
 <!-- more -->
 
+NeuroDebian provides a large collection of popular neuroscience research software for the [Debian][] operating system as well as [Ubuntu][] and other derivatives.  Moreover it provides some popular datasets and atlases within the same convenient package management system.
+
 ### Software
 
-Popular neuroscience-oriented packages include [AFNI][], [FSL][], [PyMVPA][] and [many others][software].  In addition popular projects for generic (e.g. [pandas](http://neuro.debian.net/pkgs/python-pandas.html), [xppaut](http://neuro.debian.net/pkgs/xppaut.html)) and distributed (e.g. [coop-computing-tools](http://neuro.debian.net/pkgs/coop-computing-tools.html), [condor](http://neuro.debian.net/pkgs/condor.html)) computation needs are included.  The [entire list][software] is too long to cite here.
+Popular neuroscience-oriented packages include [AFNI][], [FSL][], [PyMVPA][] and [many others][software]. In addition popular projects for generic (e.g. [pandas](http://neuro.debian.net/pkgs/python-pandas.html), [xppaut](http://neuro.debian.net/pkgs/xppaut.html)) and distributed (e.g., [coop-computing-tools](http://neuro.debian.net/pkgs/coop-computing-tools.html), [condor](http://neuro.debian.net/pkgs/condor.html)) computation needs are included.  The [entire list][software] is too long to cite here.
 
 ### Data
 
@@ -40,7 +40,8 @@ NeuroDebian provides software for the NITRC-CE environment available for the hac
 
 ### Support
 
-[Email us directly](mailto:team@neuro.debian.net) with any "private" communication.  Otherwise please use our [public mailing list][neurodebian-users] with any support questions.
+[Email us directly](mailto:team@neuro.debian.net) with any "private" communication. Otherwise please use our [public mailing list][neurodebian-users] with any support questions.
+
 You are welcome also to join #neurodebian IRC room on OFTC network if you have quick questions or want to join a live discussion.
 
 Please visit our [support][] page for additional channels.
@@ -59,7 +60,7 @@ If you are not using NeuroDebian *already* - you must try it now!
 [data]: http://neuro.debian.net/pkglists/toc_pkgs_for_release_data.html
 [support]: http://neuro.debian.net/about.html#chap-contacts
 
-<!-- some packages work mentioning -->
+<!-- some packages worth mentioning -->
 
 [AFNI]: http://neuro.debian.net/pkgs/afni.html
 [FSL]: http://neuro.debian.net/pkgs/fsl.html
