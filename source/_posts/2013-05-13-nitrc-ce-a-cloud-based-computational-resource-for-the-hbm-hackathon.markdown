@@ -3,7 +3,7 @@ layout: post
 title: "NITRC-CE: A computational resource for the HBM Hackathon"
 date: 2013-05-13 12:00
 comments: true
-categories: [Virtual Machines, Datasets, NITRC]
+categories: [Virtual Machines, Datasets, NITRC, NeuroDebian]
 ---
 
 {% img /images/NITRC-CE.png "NITRC-CE" %}
