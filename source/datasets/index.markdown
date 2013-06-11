@@ -26,6 +26,10 @@ __More Coming Soon!__
 - [ADHD200](http://fcon_1000.projects.nitrc.org/indi/adhd200/index.html)
 - [ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/)
 - [NKI/Rockland Sample](http://fcon_1000.projects.nitrc.org/indi/pro/nki.html)
+- [NeuroSynth](http://neurosynth.org)
+- [BrainMap](http://brainmap.org)
+- [Haxby 2001](http://data.pymvpa.org/datasets/haxby2001/)
+- [Mitchell 2008](http://www.cs.cmu.edu/afs/cs/project/theo-73/www/science2008/data.html)
 
 ### Restricted Access Data
 
