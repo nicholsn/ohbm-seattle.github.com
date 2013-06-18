@@ -3,5 +3,19 @@ layout: post
 title: "Mindboggle 101: Manually labeled brain surfaces and volumes"
 date: 2013-06-17 17:03
 comments: true
-categories: 
+categories: Datasets
 ---
+
+{% img http://www.mindboggle.info/_static/mindboggle_logo_small.jpg %}
+
+Mindboggle-101: Manually labeled brain surfaces and volumes
+
+<!-- more -->
+
+The [Mindboggle-101] dataset includes manually labeled anatomical regions for 101 healthy subjects.  The manually edited cortical labels follow sulcus landmarks according to the Desikan-Killiany-Tourville (DKT) protocol. The protocol, individually labeled brain images, optimal average surface and volume templates, and a surface Gaussian classifier atlas are all available for download and are described in the following [article]:
+
+“101 labeled brain images and a consistent human cortical labeling protocol”
+Arno Klein, Jason Tourville. Frontiers in Brain Imaging Methods. 6:171. DOI: 10.3389/fnins.2012.00171
+
+[Mindboggle-101]: http://www.mindboggle.info/data/
+[article]: http://www.frontiersin.org/Brain_Imaging_Methods/10.3389/fnins.2012.00171/full
