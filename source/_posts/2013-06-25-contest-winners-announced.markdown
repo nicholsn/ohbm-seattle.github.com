@@ -10,7 +10,7 @@ categories: [Hackathon, Contest]
 
 Congratulations to the winners of the HBM Hackathon Competition!
 
-**Challenge 1:** No Sound Consensous  
+**Challenge 1:** No Sound Consensus  
 **Challenge 2:** SCI  
 **Challenge 3:** MindBoggle-102  
 
@@ -37,7 +37,7 @@ The winners of the HBM Hackathon Contest brought together multi-disciplinary tea
 
 > I will be presenting a tool that enables the visualization and exploration of the gene expression data in both the correlation space and MNI space.  By navigating and visualizing in both spaces concurrently, the gene expression data can be explored and understood more completely, helping to generate hypotheses for further testing.
 
-### Challenge 3. MNI Mashup: Most innovative map or aggregation of information in the MNI 152 standard.
+### Challenge 3. MNI Mash-up: Most innovative map or aggregation of information in the MNI 152 standard.
 
 **Team "MindBoggle-102"** - Arno Klein, Jason Tourvillle, Jay Bohland, Rich Stoner
 
